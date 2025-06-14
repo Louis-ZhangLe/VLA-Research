@@ -42,15 +42,15 @@
 | π0 | [paper](https://arxiv.org/pdf/2410.24164) | [code](https://github.com/Physical-Intelligence/openpi) | - | 斯坦福, Physical Intelligence | 2024.10 | 3.3B |  | 基于流的扩散VLA，使用PaliGemma (3B VLM) |
 | CogACT | [paper](https://arxiv.org/pdf/2411.19650) | [code](https://github.com/microsoft/CogACT.git) | - | 清华，MSRA | 2024.11 | 7B |  | 认知动作Transformer |
 | Diffusion-VLA | [paper](https://arxiv.org/abs/2412.03293) | [code](https://arxiv.org/pdf/2410.07864) | - | 华东师范，上海大学，美的 | 2024.12 | - |  | 扩散模型VLA |
-| 3D-VLA | [paper](https://arxiv.org/pdf/2403.09631) | [code](https://github.com/UMass-Foundation-Model/3D-VLA/tree/main) | - | UMass | 2024.3 | CVPR 2024 | 3D-based LLM |
-| SpatialVLA | [paper](https://arxiv.org/pdf/2501.15830) | [code](https://github.com/SpatialVLA/SpatialVLA) | - | 上海AI Lab | 2025.1 |  | Adaptive Action Grid |
-| Figure: Helix | - | - | [Figure](https://www.figure.ai/news/helix) | Figure | 2025.2.20 | - | 机器人全身上半身控制 |
-| GO-1 | - | - | [智元官网](https://www.zhiyuan-robot.com/article/189/detail/56.html) | 智元 | 2025.3.10 | - | VLM+MoE架构 |
-| pi-0.5 | [paper](https://arxiv.org/abs/2504.16054) | [code](https://github.com/Physical-Intelligence/openpi) | [blog](https://blog.csdn.net/) | Physical Intelligence | 2025.4.22 | | 单模型架构，高级任务分解 |
-| Hi Robot | [paper](https://arxiv.org/abs/2502.19417) | [code](https://github.com/Physical-Intelligence/openpi) | [blog](https://blog.csdn.net/) | Physical Intelligence | 2025.2.26 | | VLM+VLA双模型架构 |
-| GROOT-N1 | [paper](https://arxiv.org/abs/2503.14734) | [code](https://github.com/NVIDIA/Isaac-GR00T) | [blog](https://developer.nvidia.com/blog/) | Nvidia | 2025.3.27 |  | 2B参数，全身控制，NVIDIA-Eagle架构 |
-| Psi-R1 | - | - | [blog](https://www.jiqizhixin.com/articles/2025-03-03-9) | 灵初智能 | 2025.4.27 | - | 分层端到端VLA+RL，验证test-time scaling |
-| Gemini Robotics | [paper](https://arxiv.org/pdf/2503.20020) | - | - | Google DeepMind | 2025.3.25 |  | Gemini 2.0构建，50Hz动作输出频率 |
+| 3D-VLA | [paper](https://arxiv.org/pdf/2403.09631) | [code](https://github.com/UMass-Foundation-Model/3D-VLA/tree/main) | - | UMass | 2024.3 | - | | 3D-based LLM |
+| SpatialVLA | [paper](https://arxiv.org/pdf/2501.15830) | [code](https://github.com/SpatialVLA/SpatialVLA) | - | 上海AI Lab | 2025.1 | - | - | Adaptive Action Grid |
+| Figure: Helix | - | - | [Figure](https://www.figure.ai/news/helix) | Figure | 2025.2.20 | - | - | 机器人全身上半身控制 |
+| GO-1 | - | - | [智元官网](https://www.zhiyuan-robot.com/article/189/detail/56.html) | 智元 | 2025.3.10 | - | - | VLM+MoE架构 |
+| pi-0.5 | [paper](https://arxiv.org/abs/2504.16054) | [code](https://github.com/Physical-Intelligence/openpi) | [blog](https://blog.csdn.net/) | Physical Intelligence | 2025.4.22 | - | - | 单模型架构，高级任务分解 |
+| Hi Robot | [paper](https://arxiv.org/abs/2502.19417) | [code](https://github.com/Physical-Intelligence/openpi) | [blog](https://blog.csdn.net/) | Physical Intelligence | 2025.2.26 | - | - | VLM+VLA双模型架构 |
+| GROOT-N1 | [paper](https://arxiv.org/abs/2503.14734) | [code](https://github.com/NVIDIA/Isaac-GR00T) | [blog](https://developer.nvidia.com/blog/) | Nvidia | 2025.3.27 | - | - | 2B参数，全身控制，NVIDIA-Eagle架构 |
+| Psi-R1 | - | - | [blog](https://www.jiqizhixin.com/articles/2025-03-03-9) | 灵初智能 | 2025.4.27 | - | - |分层端到端VLA+RL，验证test-time scaling |
+| Gemini Robotics | [paper](https://arxiv.org/pdf/2503.20020) | - | - | Google DeepMind | 2025.3.25 | - | - | Gemini 2.0构建，50Hz动作输出频率 |
 | SafeVLA | [paper](https://arxiv.org/abs/2503.03480) | [code](https://github.com/PKU-Alignment/SafeVLA) | - | 北大 | 2025.3.5 | - |  | 解决传统VLA模型在抓取和导航任务中的不安全行为 |
 | HybridVLA | [paper](https://arxiv.org/pdf/2503.10631) | [code](https://github.com/PKU-HMI-Lab/Hybrid-VLA) | - | 北大 | 2025.3.17 | 2.7B/7B |  | 用统一模型集成扩散和自回归动作预测 |
 | DexVLA | [paper](https://arxiv.org/pdf/2502.05855) | [code](https://github.com/juruobenruo/DexVLA) | - | 美的, 东南大学 | 2025.2.9 | 1B |  | Diffusion expert，采用多个action head |
